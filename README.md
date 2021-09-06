@@ -1,0 +1,1 @@
+Russians are known for spending a lot of money in hotels but also for doing a fair amount of damage. This project involves using a Supervised learning algorithm to predict the spending of hotel guests. We then used classification to predict whether damage was being done. If yes, we wanted to know how much.
